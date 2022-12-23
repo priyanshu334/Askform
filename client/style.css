@@ -10,6 +10,9 @@
 body {
   background: #243f30;
 }
+img{
+  height: 20px;
+}
 
 #app {
   width: 100vw;
