@@ -9,9 +9,10 @@
 
 body {
   background: #243f30;
+  color: #dcdcdc;
 }
 img{
-  height: 20px;
+  height: 20rem;
 }
 
 #app {
