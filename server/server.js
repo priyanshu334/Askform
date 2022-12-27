@@ -7,7 +7,7 @@ dotenv.config()
 
 console.log(process.env.OPENAI_API_KEY)
 const configuration = new Configuration({
-  apikey: process.env.OPENAI_API_KEY,
+  apikey: process.env.YOUR_API_KEY,
  
 });
 
